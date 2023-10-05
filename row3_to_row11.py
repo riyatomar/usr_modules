@@ -1,6 +1,7 @@
 import os
 
 scripts=[
+    "run_script.py"
     "indexing.py",
     "sem_cat.py",
     "morpho_sem.py",
